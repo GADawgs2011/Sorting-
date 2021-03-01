@@ -1,2 +1,2 @@
 # Sorting-
-Sorting techniques on the main Data Structures (Java)
+Sorting techniques using Data Structures 
